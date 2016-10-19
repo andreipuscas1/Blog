@@ -1,0 +1,9 @@
+Blog pages:
+1 Articles page (list + search & pagination)
+1 Article page (article details + add comment + list comments)
+1 Contact page -> save info in DB & Email
+1 Login page (use session)
+1 Admin page
+	- display all articles from DB
+	- crud on articles
+1 Pages without js errors
